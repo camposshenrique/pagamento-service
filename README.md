@@ -1,4 +1,4 @@
-# TESTE PRÁTICO - BACKEND - INSTIVO
+# TESTE PRÁTICO - BACKEND
 # Desafio: Criação de uma API REST de Pagamento
 
 ### Requisitos:
@@ -63,6 +63,3 @@ Implementar uma API para inclusão de pagamento de um produto,  aplicando as tax
     - Validações: O código deve implementar validações adequadas para os campos obrigatórios.
     - Testes: O codigo deve possuir testes unitários
     - Documentação: O código deve estar documentado de forma simples. (Swagger)
-
-### Url
-    https://x-token-auth:ATCTT3xFfGN05kBWZePkTlOXnl-rpyhPVC-kPz18IiPek5GsQwSTQNY8rkgG0Kt0Lq2Re1mlZWnHWzGyjoBtfHFJsdttzkmK-XFezik3fU_ZamfaE_CP7eSTMkrXF_VJxMJpcSMk8SFm_0rU1RAf-hmmNyDJEAia6HaKwkO8JBDiyfYbKiUokTg=D134EA08@bitbucket.org/instivo/pagamento-service.git
